@@ -1,0 +1,6 @@
+python-dotenv
+google.generativeai
+langchain==0.0.223
+langchain_community
+sentence-transformers==2.2.2
+pinecone-client
